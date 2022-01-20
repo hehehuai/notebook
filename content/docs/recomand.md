@@ -11,7 +11,6 @@
 * 公厄梯度
 * ...
 
-https://aka.ms/WindowsSysReq
 
 
 # 推荐借鉴nlp方法

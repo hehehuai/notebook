@@ -1,3 +1,5 @@
+
+
 # 线上模型特征
 select
     body["user_id"] user_id,
@@ -49,7 +51,7 @@ select
         dwd.dwd_h_log_pub_sale_statlog_i 
     where 
         p_day ='20211215' and service ='airecommendproxy' and msg='userleadslevel.RealTimeProxy' 
-    
+
 
 
 
@@ -65,5 +67,3 @@ select
 背景绘本实时特征转化率高，离线特征转化率低，低一个点
 对用户行为按经验值，标记权重打分，
 用户登陆时，计算
-
-
